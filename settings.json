@@ -1,0 +1,48 @@
+{
+    "window.zoomLevel": -1,
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.ignoreMissingGitWarning": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingComments": "always",
+    "editor.autoClosingQuotes": "always",
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotVerifyTags": true,
+    "explorer.confirmDelete": false,
+    "workbench.colorCustomizations": {
+        "terminal.background": "#00000000"
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations"
+    ],
+    "window.titleBarStyle": "custom",
+    "discord.lowerDetailsIdling": "Thinking",
+    "discord.largeImageIdling": "Editing",
+    "discord.detailsIdling": "Previewing code and changing things.",
+    "discord.lowerDetailsDebugging": "Debugging: {file_name}, Line {current_line}",
+    "discord.lowerDetailsEditing": "{file_size}, Currently {total_lines} Total Lines.",
+    "vscode_vibrancy.opacity": 0,
+    "vscode_vibrancy.preferedDarkTheme": "Noir et blanc",
+    "vscode_vibrancy.preferedLightTheme": "Noir et blanc",
+    "vscode_vibrancy.refreshInterval": 50,
+    "vscode_vibrancy.theme": "Default Light",
+    "remote.SSH.connectTimeout": 30,
+    "remote.SSH.maxReconnectionAttempts": 3,
+    "remote.SSH.remotePlatform": {
+        "hxc": "linux",
+        "hxc_main": "linux",
+        "HxC-Main": "linux",
+        "Small-Server": "linux",
+        "HxC-Main-Server": "linux",
+        "HxC_Server_MiNi": "linux",
+        "HxC_Server": "linux"
+    },
+    "better-comments.highlightPlainText": true,
+    "markdown-preview-enhanced.previewTheme": "atom-dark.css",
+    "glassit.alpha": 235,
+    "workbench.colorTheme": "GitHub Dark",
+    "files.autoSave": "afterDelay"
+}
