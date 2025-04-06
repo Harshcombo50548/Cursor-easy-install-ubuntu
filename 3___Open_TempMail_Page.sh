@@ -1,2 +1,2 @@
 #!/bin/bash
-xdg-open https://www.emailnator.com/
+xdg-open https://signup.live.com/?lic=1
